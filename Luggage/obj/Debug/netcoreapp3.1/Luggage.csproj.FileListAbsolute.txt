@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.exe
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.deps.json
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.dll
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\bin\Debug\netcoreapp3.1\Luggage.pdb
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.dll
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.pdb
+C:\Users\PhilipJensen\source\repos\Luggage\Luggage\obj\Debug\netcoreapp3.1\Luggage.genruntimeconfig.cache
